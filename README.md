@@ -7,8 +7,7 @@
 
 
 Os campos de input recebem os dados:
-+ valor;
-+ financiamento;
++ valor financiamento;
 + entrada;
 + juros;
 + prazo.
